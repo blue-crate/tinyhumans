@@ -57,10 +57,10 @@ header {
 }
 header .app-showcase {
   text-align: right;
-  padding-top: 40%;
+  padding-top: 20%;
 }
 header .block {
-  padding-top: 50%;
+  padding-top: 30%;
   text-shadow: 2px 2px 5px black;
 }
 header .block .logo {
