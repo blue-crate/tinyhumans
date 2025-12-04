@@ -57,7 +57,7 @@ header {
 }
 header .app-showcase {
   text-align: right;
-  padding-top: 20%;
+  padding-top: 28%;
 }
 header .block {
   padding-top: 30%;
@@ -93,7 +93,9 @@ video {
     display: inline-block;
     vertical-align: baseline;
     max-width: 540px;
-	padding-top:50px;
+	border-style: solid;
+	border-radius:20px;
+	border-width:5px;
 }
 .privacy {
 	color:#fafafa;
