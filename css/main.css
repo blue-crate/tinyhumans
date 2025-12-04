@@ -47,14 +47,21 @@ header {
   background-image: url("../images/hero-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 15%;
+    position: fixed;
+  height:100%;
+  width:100%;
+    top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 header .app-showcase {
   text-align: right;
+  padding-top: 40%;
 }
 header .block {
-  padding-top: 70px;
-  padding-bottom: 400px;
+  padding-top: 50%;
+  text-shadow: 2px 2px 5px black;
 }
 header .block .logo {
   display: inline-block;
@@ -74,32 +81,21 @@ header .block .download-btn a {
   margin-right: 10px;
 }
 
-footer {
-  padding: 20px 0;
-  background: #fafafa;
-  border-top: 1px solid #d7d7d7;
+#myVideo {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
-footer .navbar-nav {
-  float: none;
-  display: inline-block;
+
+video {
+    display: inline-block;
+    vertical-align: baseline;
+    max-width: 540px;
+	padding-top:50px;
 }
-footer .navbar-nav li a {
-  font-size: 20px;
-  font-weight: normal;
-}
-footer .navbar-default .navbar-nav > li > a {
-  color: #989898;
-  padding: 20px 25px;
-}
-footer .social-link ul {
-  margin-bottom: 0;
-}
-footer .social-link ul li {
-  display: inline-block;
-}
-footer .social-link ul li a {
-  color: #cccccc;
-  font-size: 25px;
-  padding: 0 5px;
-  display: inline-block;
+.privacy {
+	color:#fafafa;
+	
 }
