@@ -13,7 +13,7 @@ px      68    160    252    344    436    528    620    712    */
     margin-bottom: 35px;
   }
       header .block {
-    padding-left:40px;
+    padding-left:20px;
   }
   .download-btn a img {
     width: 150px;
@@ -33,7 +33,7 @@ px      68    160    252    */
   }
   header .app-showcase video {
     max-width: 100%;
-	margin-bottom: -220px;
+	margin-bottom: -200px;
   }
   header .block .logo {
     margin-bottom: 20px;
@@ -42,7 +42,7 @@ px      68    160    252    */
     color: #fff;
   }
     header .block {
-    padding-left:40px;
+    padding-left:20px;
   }
   .download-btn a img {
     width: 130px;
