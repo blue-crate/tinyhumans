@@ -8,7 +8,7 @@ px      68    160    252    344    436    528    620    712    */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   header .app-showcase video {
     max-width: 100%;
-	margin-bottom: -180px;
+	margin-bottom: -120px;
   }
   header .block .logo {
     margin-bottom: 35px;
@@ -34,7 +34,7 @@ px      68    160    252    */
   }
   header .app-showcase video {
     max-width: 100%;
-	margin-bottom: -180px;
+	margin-bottom: -120px;
   }
   header .block .logo {
     margin-bottom: 20px;
